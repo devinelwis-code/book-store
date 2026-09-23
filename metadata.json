@@ -1,0 +1,7 @@
+{
+  "name": "Personal Library & Book Store",
+  "description": "A clean, minimalist Google Sites catalog for personal library book collection featuring book names, prices, and cover uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
